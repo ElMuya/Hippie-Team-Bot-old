@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	fileMode = false
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Omor-FarukFaruk
+	email = <>
+[branch "main"]
